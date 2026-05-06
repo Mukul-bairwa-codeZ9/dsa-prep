@@ -51,6 +51,7 @@ This repository contains my **Data Structures & Algorithms preparation** with:
 | # | Problem | Pattern | Difficulty |
 |--|--------|--------|-----------|
 | 242 | Valid Anagram | Frequency Count | 🟢 Easy |
+| 1 | Two Sum | HashMap | 🟢 Easy |
 
 📁 Explore → [`problems/`](./problems)
 
@@ -59,7 +60,7 @@ This repository contains my **Data Structures & Algorithms preparation** with:
 ## 📊 Progress Tracker
 
 - [x] Valid Anagram  
-- [ ] Two Sum  
+- [x] Two Sum  
 - [ ] Longest Substring Without Repeating Characters  
 - [ ] Sliding Window Problems  
 
