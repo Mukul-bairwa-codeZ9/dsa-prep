@@ -11,6 +11,7 @@ Patterns help in recognizing and solving problems efficiently.
 
 ### 🔹 HashMap (Lookup Optimization)
 - [Two Sum](./hashmap/two-sum/README.md)
+- [Contains Duplicate](./hashmap/contains-duplicate/README.md)
 
 ### 🔹 Two Pointer
 - Coming soon
